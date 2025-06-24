@@ -1,4 +1,4 @@
-````markdown
+
 # 🔒 SYN Flood Attack Simulation (hping3 + Wireshark)
 
 This project demonstrates how to simulate a SYN flood attack using `hping3` and analyze the resulting network traffic using `Wireshark`. It was performed safely in a local Ubuntu VM using Apache2 as the target web server.
